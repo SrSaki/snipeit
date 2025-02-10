@@ -128,9 +128,8 @@ USER root
 #RUN chmod +x /tmp/app_install.exp
 #RUN /tmp/app_install.exp
 
-############### DATA VOLUME #################
+############### DATA #################
 
-# VOLUME ["/var/lib/snipeit"]
 
 ##### START SERVER
 
